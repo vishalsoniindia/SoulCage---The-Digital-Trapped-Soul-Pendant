@@ -1,4 +1,7 @@
-# Coming Soon (fixing some Bugs for you 😉)
+## Connect me if you need early access of code : robotheproject@gmail.com
+
+## Coming Soon (fixing some Bugs for you 😉)
+
 ---
 
 # SoulCage---The-Digital-Trapped-Soul-Pendant

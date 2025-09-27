@@ -11,7 +11,21 @@ By the way, subscribe to my [YouTube](https://vishalsoniindia.github.io/redirect
 buy me a coffee! ☕: [Donate](https://github.com/vishalsoniindia/BuyMeCoffee)
 
 _____
-Two Folders:
+## Two Folders:
 1. **SoulCage** – Contains the Arduino IDE source code (requires compilation before uploading).
 2. **easy_upload_code_binary** – Easiest method: just double-click the file to upload the code (no Arduino IDE needed).
- 
+___
+
+## easy_upload_code_binary Tutorial
+
+1. Open the folder and **double-click** `esp32_upload.bat`.
+2. If Windows shows *"Windows Protected your PC"*, click:
+   - **More Info**
+   - **Run Anyway**
+3. From the COM port list, **select the list number [NOT COM NUMBER]** where your ESP32 is connected.
+4. Press **Enter** to continue.
+5. Wait until you see:  
+   ✅ **"Flash Complete"** at the end.
+6. Press **any key** if you want to program another device.
+
+___

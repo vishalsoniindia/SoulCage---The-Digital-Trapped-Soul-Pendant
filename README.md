@@ -8,7 +8,7 @@ The flow of Changing Soul, make sure device is off : **Turn on >> Turn off >> Tu
 
 By the way, subscribe to my [YouTube](https://vishalsoniindia.github.io/redirect-links/youtube-link.html) channel for more projects like this. I also update my upcoming projects on [Instagram](https://vishalsoniindia.github.io/redirect-links/instagram-link.html).
 
-buy me a coffee! ☕: [Donate](https://github.com/vishalsoniindia/BuyMeCoffee)
+buy me a coffee! ☕: [Donate](https://vishalsoniindia.github.io/BuyMeCoffee/BuyMeCoffee.html)
 
 _____
 ## Two Folders:

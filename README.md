@@ -1,6 +1,4 @@
-## Connect me if you need early access of code : robotheproject@gmail.com
-
-## Coming Soon (fixing some Bugs for you 😉)
+## Coming Soon in 2 hours (fixing some Bugs for you 😉)
 
 ---
 

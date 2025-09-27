@@ -10,3 +10,8 @@ By the way, subscribe to my [YouTube](https://vishalsoniindia.github.io/redirect
 
 buy me a coffee! ☕: [Donate](https://github.com/vishalsoniindia/BuyMeCoffee)
 
+_____
+Two Folders:
+1. **SoulCage** – Contains the Arduino IDE source code (requires compilation before uploading).
+2. **easy_upload_code_binary** – Easiest method: just double-click the file to upload the code (no Arduino IDE needed).
+ 
